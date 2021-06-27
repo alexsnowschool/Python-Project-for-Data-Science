@@ -3,5 +3,5 @@ pandas
 selenium
 requests
 yahoo-historical
-yfinance
+yfinance==0.1.59
 html5lib
